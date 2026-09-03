@@ -3,7 +3,7 @@ To get started, we need to run client machines, that will be used in the organis
 
 ## Client machine specifications
 
-PC1
+🖥️PC1
 ---
 ```
 OS: Windows 10
@@ -15,7 +15,7 @@ Network: NAT
 MAC Address: 08:00:27:EF:A8:2B
 ```
 
-PC2
+🖥️PC2
 ---
 ```
 OS: Windows 10
@@ -27,7 +27,7 @@ Network: NAT
 MAC Addres: 08:00:27:03:1A:6C
 ```
 
-DC1
+🖥️DC1
 ---
 ```
 OS: Windows Server 2019 x64
@@ -39,7 +39,7 @@ Network: NAT
 MAC Addres: 08:00:27:83:B7:68
 ```
 
-pfSense (Router)
+🌐pfSense (Router)
 ---
 ```
 OS: freeBSD x64
