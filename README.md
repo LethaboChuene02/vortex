@@ -2,6 +2,8 @@
 This README.md file serves as the main wikipage for this project. Any suggestions you can me emailed on 📧[my email](mailto:lethabo.chuene@outlook.com). 
 Thank you for your support and viewing my project!
 
+⚠️ _The page and project is currently under construction. I kinldy ask for your time and understanding. Thank you! 😁_ 
+
 ## Installation
 
 🖥️[Installing a Virtual Windows Client Machine on VirtualBox]() <br>
@@ -24,6 +26,8 @@ Thank you for your support and viewing my project!
  
 ❗[I Can't Join My Network Domain!]() <br>
 ❗[No Internet Access]()
+
+
 []()
 []()
 []()
