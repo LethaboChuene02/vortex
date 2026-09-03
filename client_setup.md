@@ -11,7 +11,7 @@ RAM: 2GB
 CPU core(s): 1
 Storage: 20GB
 Network: NAT
-MAC Address: n/a
+MAC Address: 08:00:27:EF:A8:2B
 ```
 
 PC2
@@ -22,5 +22,5 @@ RAM: 2GB
 CPU core(s): 1
 Storage: 20GB
 Network: NAT
-MAC Addres: n/a
+MAC Addres: 08:00:27:03:1A:6C
 ```
