@@ -1,5 +1,5 @@
 # 💻 Vortex - Homelab documentation for Junior IT Support role 💻
-This README.md file serves as the main wikipage for this project. Any suggestions you can me emailed on 📧[my email](mailto:lethabo.chuene@outlook.com). 
+This README.md file serves as the main wikipage for this project. Any suggestions you can me emailed on 📧[My E-Mail](mailto:lethabo.chuene@outlook.com). 
 Thank you for your support and viewing my project!
 
 ⚠️ _The page and project is currently under construction. I kinldy ask for your time and understanding. Thank you! 😁_ 
