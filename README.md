@@ -6,8 +6,8 @@ Thank you for your support and viewing my project!
 
 ## Installation
 
-🖥️[Installing a Virtual Windows Client Machine on VirtualBox]() <br>
-🖥️[Installing Virtual Windows Server Machine on VirtualBox]()<br>
+🖥️[Installing a Virtual Windows Client Machine on VirtualBox](05 - Projects/installing_clients/installing_client_machine.md) <br>
+🖥️[Installing Virtual Windows Server Machine on VirtualBox](05 - Projects/installing_servers/installing_server_machine.md)<br>
 🖥️[Installing a Virtual pfSense (Router) Machine on VirtualBox ]()<br>
 
 ## Network designs
