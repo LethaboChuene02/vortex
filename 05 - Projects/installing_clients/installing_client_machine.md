@@ -1,4 +1,7 @@
-## Installing client machines on VirtualBox 🖥️
+# Installing client machines on VirtualBox 🖥️
+
+## PC1: Installation Guide
+
 🟦1. Open VirtualBox. Click *'New'* <br>
 [Image 1]()
 
@@ -19,5 +22,5 @@
 🟦 6. Create a new virtual hard disk. The directory shown, is set by default set by VirtualBox. Pre-Allocate full size. This helps create one .vdi file, instead of segmenting it.<br>
 [Image 6]()
 
-🟦 Once everything is setup, click finish. You should be able to run Windows. 
+🟦 Once everything is setup, click finish. You should be able to run Windows.<br>
 [Image 7]()
