@@ -2,8 +2,8 @@
 
 ## PC1: Installation Guide
 
-🟦1. Open VirtualBox. Click *'New'* <br>
-![Image 1](05%20-%20Projects/Images/image1.png)
+🟦1. Open VirtualBox. Click *'New'*<br>
+![Image 1](Images/image1.png)
 
 🟦2. Enter VM Name. <br>
 ⚠️ Note: The VM folder locates where the virtual machine files will be stored. In this case directory ``` C:\Users\Lethabo\VirtualBox\VMs ``` is used by default.<br>
