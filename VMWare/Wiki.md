@@ -10,3 +10,7 @@ windows server 2019 installed. It had:
 4. Lethabo as the Administrator, using the default password.
 
 **⚠️ For demonstration purposes, I will use the same password on all VMs to maintain consistency. Password security is important. ⚠️**
+
+Video recorded on the 27.10.2026 > Video to be uploaded later. <br>
+
+!(http://www.google.com) [Video]
