@@ -13,4 +13,4 @@ windows server 2019 installed. It had:
 
 Video recorded on the 27.10.2026 > Video to be uploaded later. <br>
 
-!(http://www.google.com) [Video]
+![Video](https://www.youtube.com)
